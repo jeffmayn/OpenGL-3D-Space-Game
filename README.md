@@ -8,7 +8,7 @@ Collaborators:
 * <a href="https://github.com/Skovisen">Skovisen</a> (Christian Bülow Skovborg)
 <hr>
 <b>INSTALLATION:</b>
------------------------------------------------------------
+<hr>
 Works only linux systems. When you have cloned this repository
 to your computer open a terminal and type:
 
@@ -19,7 +19,7 @@ to your computer open a terminal and type:
    or double-click the executable.
 
 <b>GAME CONTROLS:</b>
------------------------------------------------------------
+<hr>
 Use mouse to steer around.
 
 W:  Move forward
