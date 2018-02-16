@@ -9,7 +9,7 @@ Collaborators:
 <hr>
 <b>INSTALLATION:</b><br>
 -------------------------------------------------------------<br>
-Works only linux systems. When you have cloned this repository
+Works only on linux systems. When you have cloned this repository
 to your computer open a terminal and type:
 
 1: cmake .<br>
@@ -21,7 +21,6 @@ to your computer open a terminal and type:
 <b>GAME CONTROLS:</b><br>
 -------------------------------------------------------------<br>
 Use mouse to steer around.<br><br>
-
 W:  Move forward<br>
 S:	Brake<br>
 A:	Turn left<br>
