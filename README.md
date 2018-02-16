@@ -18,8 +18,8 @@ to your computer open a terminal and type:
 4: run binary from command line ($./battleground_IMADA)<br>
    or double-click the executable.<br><br>
 
-<b>GAME CONTROLS:</b>
-<hr>
+<b>GAME CONTROLS:</b><br>
+-------------------------------------------------------------<br>
 Use mouse to steer around.<br><br>
 
 W:  Move forward<br>
