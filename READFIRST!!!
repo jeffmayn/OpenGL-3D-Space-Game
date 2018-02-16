@@ -1,0 +1,6 @@
+Open a terminal in this location
+enter the following sequentially:
+1: cmake .
+2: make install
+3: cd to /bin/debug
+4: run binary from command line or double-click to execute
