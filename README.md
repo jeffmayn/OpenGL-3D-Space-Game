@@ -7,20 +7,22 @@ Collaborators:
 * <a href="https://github.com/JonasTeg">JonasTeg</a> (Jonas Stubbe Teglbjærg)
 * <a href="https://github.com/Skovisen">Skovisen</a> (Christian Bülow Skovborg)
 <hr>
-INSTALLATION:
+<b>INSTALLATION:</b>
 -----------------------------------------------------------
-Open a terminal in this location
-enter the following sequentially:
+Works only linux systems. When you have cloned this repository
+to your computer open a terminal and type:
+
 1: cmake .
 2: make install
 3: cd to /bin/debug
-4: run binary from command line or double-click to execute
+4: run binary from command line ($./battleground_IMADA)
+   or double-click the executable.
 
-Game controls:
+<b>GAME CONTROLS:</b>
 -----------------------------------------------------------
 Use mouse to steer around.
 
-W:	Move forward
+W:  Move forward
 S:	Brake
 A:	Turn left
 D:	Turn right
