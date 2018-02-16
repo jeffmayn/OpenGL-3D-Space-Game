@@ -35,4 +35,5 @@ F5:	Mute / Unmute sounds<br>
 F6:	Decrease volume<br>
 F7:	Increase volume<br>
 ESC:	Quit program<br>
-<a href="https://youtu.be/SWNezZee_8I?t=16s">Video</a>
+<hr><center>
+<a href="https://youtu.be/SWNezZee_8I?t=16s"><img src="https://github.com/jeffmayn/OpenGL-3D-Space-Game/blob/master/src/assets/textures/game.png"></a></center>
