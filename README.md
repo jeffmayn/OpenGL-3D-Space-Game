@@ -7,7 +7,8 @@ Collaborators:
 * <a href="https://github.com/JonasTeg">JonasTeg</a> (Jonas Stubbe Teglbjærg)
 * <a href="https://github.com/Skovisen">Skovisen</a> (Christian Bülow Skovborg)
 <hr>
-<b>INSTALLATION:</b><hr>
+<b>INSTALLATION:</b>
+---------------------------
 Works only linux systems. When you have cloned this repository
 to your computer open a terminal and type:
 
