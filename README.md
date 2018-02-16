@@ -1,6 +1,8 @@
-# Game design project
+# Game Design Project
 
 This project is about designing and creating a game with the help of OpenGL and the C++ programming language. This is an educational project, done for the course DM842 Computer Game Programming taken at the University of Southern Denmark.
+
+Keep in mind that this game is our fist attempt with OpenGL. The game is extremely buggy and has no real objective, other than flying around in 3D space and collide with another spaceship. Collision detection is also buggy right now.
 
 Collaborators:
 * <a href="https://github.com/jeffmayn">Jeffmayn</a> (Jeff Gyldenbrand)
